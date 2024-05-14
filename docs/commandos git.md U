@@ -1,0 +1,21 @@
+## Descargar e instalr git
+
+## Crear una cuenta en github
+
+## configurar git
+
+git config --global.name "GMR"
+git config --global.email "GMR@gmail.com"
+
+## inicializar un nuevo reporsito
+
+git init
+
+## clonar repositorio si ya existe
+
+git colone direccion_Remota
+
+
+
+
+
